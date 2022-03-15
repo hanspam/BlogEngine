@@ -1,0 +1,12 @@
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\bin\Debug\net6.0\Common.Mapping.deps.json
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\bin\Debug\net6.0\Common.Mapping.dll
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\bin\Debug\net6.0\ref\Common.Mapping.dll
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\bin\Debug\net6.0\Common.Mapping.pdb
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.csproj.AssemblyReference.cache
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.AssemblyInfoInputs.cache
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.AssemblyInfo.cs
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.dll
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\ref\Common.Mapping.dll
+C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Common\Common.Mapping\obj\Debug\net6.0\Common.Mapping.pdb
