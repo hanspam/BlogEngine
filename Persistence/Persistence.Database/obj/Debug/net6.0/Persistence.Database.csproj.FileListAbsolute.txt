@@ -1,0 +1,15 @@
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\Persistence.Database.deps.json
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\Persistence.Database.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\ref\Persistence.Database.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\Persistence.Database.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\bin\Debug\net6.0\Models.Domain.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.AssemblyInfo.cs
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.CopyComplete
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\ref\Persistence.Database.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Persistence\Persistence.Database\obj\Debug\net6.0\Persistence.Database.pdb

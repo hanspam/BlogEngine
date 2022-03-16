@@ -21,11 +21,14 @@ namespace Service.EventHandler
 
         public async Task Handle(CommentCreateCommand command, CancellationToken cancellationToken)
         {
+            var users = _applicationDbContext.Users.Where(x => x.UserId == command.UserId).FirstOrDefault();
+
+            var posts = _applicationDbContext.Posts.Where(x => x.PostId == command.PostId).FirstOrDefault();
+
             await _applicationDbContext.AddAsync(new Comment
             {
-                CommentId = command.CommentId,
-                User = command.User,
-                Post = command.Post,
+                User = users,
+                Post = posts,
                 Annotation = command.Annotation,
             });
 

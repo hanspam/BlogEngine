@@ -10,3 +10,15 @@ C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Models\Models.Domain\obj\De
 C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.dll
 C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Models\Models.Domain\obj\Debug\net6.0\ref\Models.Domain.dll
 C:\Users\wilom\source\repos\BlogEngineDotNetSolution\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\bin\Debug\net6.0\Models.Domain.deps.json
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\bin\Debug\net6.0\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\bin\Debug\net6.0\ref\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\bin\Debug\net6.0\Models.Domain.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.csproj.AssemblyReference.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.AssemblyInfoInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.AssemblyInfo.cs
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\ref\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Models\Models.Domain\obj\Debug\net6.0\Models.Domain.pdb

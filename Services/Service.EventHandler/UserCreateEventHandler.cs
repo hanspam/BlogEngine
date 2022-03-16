@@ -23,7 +23,6 @@ namespace Service.EventHandler
         {
             await _applicationDbContext.AddAsync(new User
             {
-                UserId = command.UserId,
                 Name = command.Name,
                 LastName = command.LastName,
                 UserRol = command.UserRol,

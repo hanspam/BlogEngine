@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Common\\Common.Mapping\\Common.Mapping.csproj": {}
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Common\\Common.Mapping\\Common.Mapping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Common\\Common.Mapping\\Common.Mapping.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Common\\Common.Mapping\\Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Common\\Common.Mapping\\Common.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Common\\Common.Mapping\\Common.Mapping.csproj",
         "projectName": "Common.Mapping",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Common\\Common.Mapping\\Common.Mapping.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Common\\Common.Mapping\\Common.Mapping.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Common\\Common.Mapping\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Common\\Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

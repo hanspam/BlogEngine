@@ -9,8 +9,6 @@ namespace Service.EventHandler.Commands
 {
     public class UserCreateCommand : INotification
     {
-        public int UserId { get; set; }
-
         public string? Name { get; set; }
 
         public string? LastName { get; set; }

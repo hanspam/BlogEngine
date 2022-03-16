@@ -1,0 +1,17 @@
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Service.EventHandler.deps.json
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Service.EventHandler.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\ref\Service.EventHandler.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Service.EventHandler.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Models.Domain.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Persistence.Database.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Persistence.Database.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\bin\Debug\net6.0\Models.Domain.pdb
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.csproj.AssemblyReference.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.AssemblyInfoInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.AssemblyInfo.cs
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.csproj.CopyComplete
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\ref\Service.EventHandler.dll
+C:\Users\wilom\source\repos\GitHub\BlogEngine\Services\Service.EventHandler\obj\Debug\net6.0\Service.EventHandler.pdb

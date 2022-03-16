@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Api\\Api.csproj": {}
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Api\\Api.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Api\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
               },
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\Service.EventHandler.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\Service.EventHandler.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\Service.EventHandler.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\Service.EventHandler.csproj"
               },
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\Services.Queries.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\Services.Queries.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\Services.Queries.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\Services.Queries.csproj"
               }
             }
           }
@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[10.0.1, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -71,6 +75,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -95,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\Models.Domain.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\Models.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\Models.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\Models.Domain.csproj",
         "projectName": "Models.Domain",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\Models.Domain.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\Models.Domain.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -153,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj",
         "projectName": "Persistence.Database",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,8 +189,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\Models.Domain.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Models\\Models.Domain\\Models.Domain.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\Models.Domain.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Models\\Models.Domain\\Models.Domain.csproj"
               }
             }
           }
@@ -221,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\Service.EventHandler.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\Service.EventHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\Service.EventHandler.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\Service.EventHandler.csproj",
         "projectName": "Service.EventHandler",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\Service.EventHandler.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\Service.EventHandler.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Service.EventHandler\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Service.EventHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -249,8 +257,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
               }
             }
           }
@@ -289,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\Services.Queries.csproj": {
+    "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\Services.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\Services.Queries.csproj",
+        "projectUniqueName": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\Services.Queries.csproj",
         "projectName": "Services.Queries",
-        "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\Services.Queries.csproj",
+        "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\Services.Queries.csproj",
         "packagesPath": "C:\\Users\\wilom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Services\\Services.Queries\\obj\\",
+        "outputPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Services\\Services.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -317,8 +325,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
-                "projectPath": "C:\\Users\\wilom\\source\\repos\\BlogEngineDotNetSolution\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
+              "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj": {
+                "projectPath": "C:\\Users\\wilom\\source\\repos\\GitHub\\BlogEngine\\Persistence\\Persistence.Database\\Persistence.Database.csproj"
               }
             }
           }

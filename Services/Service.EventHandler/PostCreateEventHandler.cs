@@ -14,20 +14,24 @@ namespace Service.EventHandler
     {
         private readonly ApplicationDbContext _applicationDbContext;
 
-        public PostCreateEventHandler(ApplicationDbContext applicationDbContext) 
+        public PostCreateEventHandler(ApplicationDbContext applicationDbContext)
         {
             _applicationDbContext = applicationDbContext;
         }
 
-        public async Task Handle(PostCreateCommand command, CancellationToken cancellationToken) 
+        public async Task Handle(PostCreateCommand command, CancellationToken cancellationToken)
         {
+            var users = _applicationDbContext.Users.Where(x => x.UserId == command.UserId).FirstOrDefault();
+
+            var status = _applicationDbContext.Status.Where(x => x.StatusId == command.StatusId).FirstOrDefault();
+
             await _applicationDbContext.AddAsync(new Post
             {
                 Content = command.Content,
-                User = command.UserId,
+                User = users,
                 Created = command.Created,
                 Title = command.Title,
-                Status = command.StatusId,
+                Status = status,
             });
 
             await _applicationDbContext.SaveChangesAsync();

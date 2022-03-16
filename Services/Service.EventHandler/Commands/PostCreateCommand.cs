@@ -10,13 +10,13 @@ namespace Service.EventHandler.Commands
 {
     public class PostCreateCommand : INotification
     {
-        public User? UserId { get; set; }
+        public int UserId { get; set; }
 
         public string? Title { get; set; }
 
         public string? Content { get; set; }
 
-        public Status? StatusId { get; set; }
+        public int StatusId { get; set; }
 
         public DateTime Created { get; set; }
     }
