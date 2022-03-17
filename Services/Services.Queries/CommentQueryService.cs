@@ -21,9 +21,8 @@ namespace Services.Queries
 
         public async Task<List<CommentDto>> GetAllAsync()
         {
-            var collection = await _applicationDbContext.Comments.ToListAsync();
+            return (await _applicationDbContext.Comments.ToListAsync()).MapTo<List<CommentDto>>();
 
-            return collection.MapTo<List<CommentDto>>();
         }
 
         public async Task<CommentDto> GetAsync(int id)

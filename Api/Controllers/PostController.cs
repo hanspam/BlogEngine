@@ -23,28 +23,30 @@ namespace Api.Controllers
             _mediator = mediator;
         }
 
-        //[AllowAnonymous]
-        //posts
         [HttpGet]
         public async Task<List<PostDto>> GetAll()
         {
             return await _postQueryService.GetAllAsync();
         }
 
-        //[Authorize(Roles = "PowerUser")]
-        //posts/1
         [HttpGet("{id}")]
         public async Task<PostDto> Get(int id)
         {
             return await _postQueryService.GetAsync(id);
         }
 
-        //posts/1
         [HttpPost]
         public async Task<IActionResult> Create(PostCreateCommand command)
         {
             await _mediator.Publish(command);
             return Ok();
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update(PostUpdateCommand command)
+        {
+            await _mediator.Publish(command);
+            return NoContent();
         }
     }
 }

@@ -46,5 +46,12 @@ namespace Api.Controllers
             await _mediator.Publish(command);
             return Ok();
         }
+
+        [HttpPut]
+        public async Task<IActionResult> Update(CommentUpdateCommand command)
+        {
+            await _mediator.Publish(command);
+            return NoContent();
+        }
     }
 }
